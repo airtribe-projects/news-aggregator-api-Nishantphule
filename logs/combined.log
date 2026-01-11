@@ -1,0 +1,30 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mUser created successfully: clark@superman.com\u001b[39m","timestamp":"2026-01-11 20:56:17:5617"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mUser logged in successfully: clark@superman.com\u001b[39m","timestamp":"2026-01-11 20:56:18:5618"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33mLogin attempt with invalid password for email: clark@superman.com\u001b[39m","timestamp":"2026-01-11 20:56:18:5618"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mPreferences updated for user: clark@superman.com\u001b[39m","preferences":["movies","comics","games"],"timestamp":"2026-01-11 20:56:18:5618","userId":"6963c119587d8a939ffb05c7"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mFetching news for user: clark@superman.com\u001b[39m","preferences":["movies","comics","games"],"timestamp":"2026-01-11 20:56:18:5618"}
+{"articleCount":10,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mNews fetched successfully for user: clark@superman.com\u001b[39m","timestamp":"2026-01-11 20:56:18:5618"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mUser created successfully: clark@superman.com\u001b[39m","timestamp":"2026-01-11 20:57:18:5718"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mUser logged in successfully: clark@superman.com\u001b[39m","timestamp":"2026-01-11 20:57:18:5718"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33mLogin attempt with invalid password for email: clark@superman.com\u001b[39m","timestamp":"2026-01-11 20:57:18:5718"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mPreferences updated for user: clark@superman.com\u001b[39m","preferences":["movies","comics","games"],"timestamp":"2026-01-11 20:57:18:5718","userId":"6963c1560597ec06d6fcbb59"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mFetching news for user: clark@superman.com\u001b[39m","preferences":["movies","comics","games"],"timestamp":"2026-01-11 20:57:18:5718"}
+{"articleCount":10,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mNews fetched successfully for user: clark@superman.com\u001b[39m","timestamp":"2026-01-11 20:57:19:5719"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mUser created successfully: clark@superman.com\u001b[39m","timestamp":"2026-01-11 21:00:35:035"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mUser logged in successfully: clark@superman.com\u001b[39m","timestamp":"2026-01-11 21:00:35:035"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"\u001b[33mLogin attempt with invalid password for email: clark@superman.com\u001b[39m","timestamp":"2026-01-11 21:00:36:036"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mPreferences updated for user: clark@superman.com\u001b[39m","preferences":["movies","comics","games"],"timestamp":"2026-01-11 21:00:36:036","userId":"6963c21ba2500c8c74ecea16"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mFetching news for user: clark@superman.com\u001b[39m","preferences":["movies","comics","games"],"timestamp":"2026-01-11 21:00:36:036"}
+{"articleCount":10,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mNews fetched successfully for user: clark@superman.com\u001b[39m","timestamp":"2026-01-11 21:00:36:036"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mMongoDB connected successfully\u001b[39m","timestamp":"2026-01-11 21:03:34:334"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is listening on port 3000\u001b[39m","timestamp":"2026-01-11 21:03:34:334"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mEnvironment: development\u001b[39m","timestamp":"2026-01-11 21:03:34:334"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mPreferences updated for user: parna@gmail.com\u001b[39m","preferences":[],"timestamp":"2026-01-11 21:08:10:810","userId":"6963befdaa164a47c4910fa1"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mFetching news for user: parna@gmail.com\u001b[39m","preferences":[],"timestamp":"2026-01-11 21:08:13:813"}
+{"articleCount":10,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mNews fetched successfully for user: parna@gmail.com\u001b[39m","timestamp":"2026-01-11 21:08:14:814"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mMongoDB connected successfully\u001b[39m","timestamp":"2026-01-11 21:08:50:850"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mServer is listening on port 3000\u001b[39m","timestamp":"2026-01-11 21:08:50:850"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mEnvironment: development\u001b[39m","timestamp":"2026-01-11 21:08:50:850"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mFetching news for user: parna@gmail.com\u001b[39m","preferences":[],"timestamp":"2026-01-11 21:08:53:853"}
+{"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mFetching top headlines\u001b[39m","timestamp":"2026-01-11 21:08:53:853"}
+{"articleCount":10,"level":"\u001b[32minfo\u001b[39m","message":"\u001b[32mNews fetched successfully for user: parna@gmail.com\u001b[39m","timestamp":"2026-01-11 21:08:54:854"}
